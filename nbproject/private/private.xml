@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/webserver/UniServerZ/www/web01/controllers/dashboard.php</file>
+            <file>file:/C:/webserver/UniServerZ/www/web01/route.php</file>
+            <file>file:/C:/webserver/UniServerZ/www/web01/views/dashboard/index.php</file>
+            <file>file:/C:/webserver/UniServerZ/www/web01/views/dashboard/js/default.js</file>
+            <file>file:/C:/webserver/UniServerZ/www/web01/libs/Controller.php</file>
+            <file>file:/C:/webserver/UniServerZ/www/web01/index.php</file>
+            <file>file:/C:/webserver/UniServerZ/www/web01/models/dashboard_model.php</file>
+            <file>file:/C:/webserver/UniServerZ/www/web01/views/login/index.php</file>
+            <file>file:/C:/webserver/UniServerZ/www/web01/controllers/contact.php</file>
+            <file>file:/C:/webserver/UniServerZ/www/web01/controllers/about.php</file>
+            <file>file:/C:/webserver/UniServerZ/www/web01/models/about_model.php</file>
+            <file>file:/C:/webserver/UniServerZ/www/web01/models/contact_model.php</file>
+            <file>file:/C:/webserver/UniServerZ/www/web01/config/Database.php</file>
+            <file>file:/C:/webserver/UniServerZ/www/web01/config/DatabaseFunctions.php</file>
+            <file>file:/C:/webserver/UniServerZ/www/web01/libs/Session.php</file>
+            <file>file:/C:/webserver/UniServerZ/www/web01/models/login_model.php</file>
+        </group>
+    </open-files>
+</project-private>
